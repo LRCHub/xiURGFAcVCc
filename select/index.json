@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "MY TOWN (Official Music Video)",
+  "base_artist": "South Blue",
+  "createdAt": "2025-12-01T15:10:05.751997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/01_My_Town_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Town (Album Version)",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/02_My_Town_(Album_Version)_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Town (feat. Gaika)",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/03_My_Town_(feat._Gaika)_Faithless.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/04_My_Town_Faithless.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My City My Town",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/05_My_City_My_Town_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/06_My_Town_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "MD.45",
+      "has_synced": true,
+      "path": "select/07_My_Town_MD.45.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "MD.45",
+      "has_synced": true,
+      "path": "select/08_My_Town_MD.45.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shock In My Town",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/09_Shock_In_My_Town_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shock In My Town - Live 2003",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/10_Shock_In_My_Town_-_Live_2003_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shock In My Town (Live 2003)",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/11_Shock_In_My_Town_(Live_2003)_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shock in My Town",
+      "artist": "Franco Battiato",
+      "has_synced": false,
+      "path": "select/12_Shock_in_My_Town_Franco_Battiato.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Is My Town",
+      "artist": "Mark Kozelek",
+      "has_synced": false,
+      "path": "select/13_This_Is_My_Town_Mark_Kozelek.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "Demun Jones",
+      "has_synced": false,
+      "path": "select/14_My_Town_Demun_Jones.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/15_My_Town_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shock In My Town (Live)",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/16_Shock_In_My_Town_(Live)_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Town",
+      "artist": "Cartoon Boyfriend",
+      "has_synced": true,
+      "path": "select/17_My_Town_Cartoon_Boyfriend.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "my town",
+      "artist": "YEN TOWN BAND feat.Kj(Dragon Ash)",
+      "has_synced": false,
+      "path": "select/pl_01_my_town_YEN_TOWN_BAND_feat.Kj(Dragon_Ash).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "my town (MURO'S LOVERS MIX)",
+      "artist": "YEN TOWN BAND feat.Kj(Dragon Ash)",
+      "has_synced": false,
+      "path": "select/pl_02_my_town_(MURO'S_LOVERS_MIX)_YEN_TOWN_BAND_feat.Kj(Dragon_Ash).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "my town (The Orb Remix)",
+      "artist": "YEN TOWN BAND feat.Kj(Dragon Ash)",
+      "has_synced": false,
+      "path": "select/pl_03_my_town_(The_Orb_Remix)_YEN_TOWN_BAND_feat.Kj(Dragon_Ash).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "My Town",
+      "artist": "YEN TOWN BAND feat.Kj(Dragon Ash)",
+      "has_synced": false,
+      "path": "select/pl_04_My_Town_YEN_TOWN_BAND_feat.Kj(Dragon_Ash).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "MY TOWN feat. 紅桜",
+      "artist": "YEN TOWN BAND feat.Kj(Dragon Ash)",
+      "has_synced": false,
+      "path": "select/pl_05_MY_TOWN_feat._紅桜_YEN_TOWN_BAND_feat.Kj(Dragon_Ash).txt"
+    }
+  ]
+}
